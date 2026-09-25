@@ -7,7 +7,6 @@ Companies
 SQL Schema
 Pandas Schema
 Table: Weather
-
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
