@@ -6,7 +6,6 @@ Companies
 SQL Schema
 Pandas Schema
 Table: Views
-
 +---------------+---------+
 | Column Name   | Type    |
 +---------------+---------+
